@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home a{
+    text-decoration: none;
+    color: brown;
+}
+.home{
+    background-color: burlywood;
+    height: 70px;
+    position: relative;
+}
+.vadapav1{
+    margin: 50px;
+}
+.img1{
+    height: 700px;
+    
+}
+.urban{
+    margin-bottom: 30px;
+}
+.urban .row img{
+    width: 600px;
+    height: 400px;
+}
+.urban .row p{
+    padding-left: 45px;
+}
+.urban .row h3{
+    margin-left: 55px;
+}
+.info{
+    margin-top: 100px;
+}
+.head{
+    margin-top: 100px;
+}
+.head h3{
+    color: rgb(255, 191, 0);
+    font-family: 'Babylonica', cursive;;
+    font-weight: bolder;
+}
+.head p{
+    padding-left: 400px;
+    padding-right: 400px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menus2{
+    background-image:url(./istockphoto-1267018755-170667a.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menus2 .card{
+  height: 300px;
+  width: 300px;
+  border: none;
+  margin-top: 50px;
+}
+.menus2 .card img{
+    height: 300px;
+}
+.menus2 .card p{
+    margin-left: 5px;
+    padding-left: 35px;
+    padding-right: 20px;
+}
+.menus2 h5{
+    color: rgb(255, 191, 0);
+    font-size:x-large;
+}
+.menus2 .row2{
+    margin-bottom: 50px;
+}
+
